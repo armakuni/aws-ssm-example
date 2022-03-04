@@ -1,0 +1,4 @@
+secrets/*
+config.tfvars
+.terraform*
+terraform.tfstate*
